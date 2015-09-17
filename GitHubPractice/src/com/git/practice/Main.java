@@ -8,8 +8,9 @@ public class Main {
 	}
 
 	private static void displayGreeting() {
-		System.out.println("HELLO HAPPY SALES PEOPLE!");
-		System.out.println("THIS APPS SHOWS SALES DATA!");
+		System.out.println("Hello Happy Sales People!");
+		System.out.println("This Apps Shows Sales Data!");
+		System.out.println("-----------------------------");
 		
 		System.out.println("Test1");
 		System.out.println("Test2");
